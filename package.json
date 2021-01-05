@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@cookieseater/vue-yandex-share": "^0.2.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "epic-spinners": "^1.0.4",
     "vue": "^2.5.21",
     "vue-acl": "^4.0.7",
